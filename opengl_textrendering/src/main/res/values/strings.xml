@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="colors">
+        <item>Wähle eine Farbe</item>
+        <item>Weiß</item>
+        <item>Schwarz</item>
+        <item>Gelb</item>
+        <item>Hellgelb</item>
+        <item>Orange</item>
+        <item>Rot</item>
+        <item>Hellrot</item>
+        <item>Blau</item>
+        <item>Hellblau</item>
+        <item>Grün</item>
+        <item>Hellgrün</item>
+        <item>Dunkelgrün</item>
+        <item>Türkis</item>
+        <item>Magenta</item>
+        <item>Lila</item>
+    </string-array>
+</resources>

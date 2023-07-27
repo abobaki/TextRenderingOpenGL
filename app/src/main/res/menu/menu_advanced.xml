@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemControlViewmatrix"
+        android:showAsAction="always"
+        android:icon="@drawable/camera"
+        android:title="view matrix" />
+
+    <item
+        android:id="@+id/menuEditSentence"
+        android:showAsAction="always|withText"
+        android:title="Text bearbeiten" />
+
+</menu>
